@@ -3,10 +3,6 @@
 Toni Giorgino (IBF-CNR), www.giorginolab.it, for the MSI Classes of the UPF Master in Bioinformatics for Health Sciences.
 
 
-* To preview the notebook code "live" with results,  [![Open In
-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giorginolab/Markov-Tutorial-BCN-2021/blob/main/demo.ipynb)
+* To preview the notebook code "live" with results, see [this repository](https://github.com/giorginolab/Markov-Tutorial-Data).
 
-* The presentation is [here](markov_msi_2021_p1.pdf) 
-
-* For a different take, see the [Markov-Tutorial-UniMi-2019](https://github.com/giorginolab/Markov-Tutorial-UniMi-2019) and
-  [Markov-Tutorial-BCN-2020](https://github.com/giorginolab/Markov-Tutorial-BCN-2020) repositories.
+* For different takes, see previous issues of this course on GitHub.
